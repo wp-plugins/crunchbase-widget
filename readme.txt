@@ -4,7 +4,7 @@ Donate link: http://yoast.com/donate/
 Tags: techcrunch, crunchbase
 Requires at least: 2.2
 Tested up to: 2.6
-stable tag: 1.0
+stable tag: 1.1
 
 Easily add CrunchBase widgets to your posts and pages!
 
@@ -23,6 +23,11 @@ More info:
 
 * [CrunchBase Widget](http://yoast.com/wordpress/crunchbase/).
 * Check out the other [Wordpress plugins](http://yoast.com/wordpress/) by the same author.
+
+== Changelog ==
+
+* 1.1 Changed feed output
+* 1.0 Initial version
 
 == Installation ==
 
